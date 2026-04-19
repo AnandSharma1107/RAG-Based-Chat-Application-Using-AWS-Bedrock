@@ -1,0 +1,9 @@
+boto3
+awscli
+streamlit
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.38
+pypdf
+faiss-cpu
+langchain-aws
