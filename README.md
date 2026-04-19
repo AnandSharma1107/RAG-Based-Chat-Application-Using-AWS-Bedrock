@@ -39,4 +39,3 @@ This is a Retrieval-Augmented Generation (RAG) based chat application that allow
 
 Ask questions about your uploaded PDFs, and the system will retrieve the most relevant context and generate accurate answers using AWS Bedrock LLMs.
 
-## 📂 Project Structure
